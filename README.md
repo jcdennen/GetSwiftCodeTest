@@ -1,6 +1,7 @@
 # GetSwift Code Test
 
-This is my solution to the [GetSwift code test](https://github.com/GetSwift/codetest/)
+This is my solution to the [GetSwift code test](https://github.com/GetSwift/codetest/) .
+
 A live version of this can be found [here](http://getswifttest.dennen.software/)
 
 
